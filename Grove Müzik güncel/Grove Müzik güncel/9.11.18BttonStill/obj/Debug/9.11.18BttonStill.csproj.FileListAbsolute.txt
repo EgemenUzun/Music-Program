@@ -1,0 +1,270 @@
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\9.11.18BttonStill\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe.config
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\9.11.18BttonStill\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\9.11.18BttonStill\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.pdb
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\MainWindow.baml
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\MainWindow.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\App.g.cs
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.g.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\_9._11._18BttonStill.Properties.Resources.resources
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.GenerateResource.Cache
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.exe
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.pdb
+c:\users\lab5ogr16\documents\visual studio 2012\Projects\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csprojResolveAssemblyReference.cache
+E:\9.11.18BttonStill\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe.config
+E:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.exe
+E:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.pdb
+E:\9.11.18BttonStill\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe
+E:\9.11.18BttonStill\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.pdb
+E:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csprojResolveAssemblyReference.cache
+E:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\MainWindow.baml
+E:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\MainWindow.g.cs
+E:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\App.g.cs
+E:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.cache
+E:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.g.resources
+E:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\_9._11._18BttonStill.Properties.Resources.resources
+E:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.GenerateResource.Cache
+D:\9.11.18BttonStill\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe.config
+D:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.exe
+D:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.pdb
+D:\9.11.18BttonStill\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe
+D:\9.11.18BttonStill\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.pdb
+D:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csprojResolveAssemblyReference.cache
+D:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\MainWindow.baml
+D:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\MainWindow.g.cs
+D:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\App.g.cs
+D:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.cache
+D:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.g.resources
+D:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\_9._11._18BttonStill.Properties.Resources.resources
+D:\9.11.18BttonStill\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.GenerateResource.Cache
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe.config
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.exe
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.pdb
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.pdb
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csprojResolveAssemblyReference.cache
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\MainWindow.baml
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\MainWindow.g.cs
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\App.g.cs
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.cache
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.g.resources
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\_9._11._18BttonStill.Properties.Resources.resources
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.GenerateResource.Cache
+E:\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe.config
+E:\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.exe
+E:\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.pdb
+E:\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe
+E:\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.pdb
+E:\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csprojResolveAssemblyReference.cache
+E:\Grove Müzik\9.11.18BttonStill\obj\Debug\MainWindow.baml
+E:\Grove Müzik\9.11.18BttonStill\obj\Debug\MainWindow.g.cs
+E:\Grove Müzik\9.11.18BttonStill\obj\Debug\App.g.cs
+E:\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.cache
+E:\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.g.resources
+E:\Grove Müzik\9.11.18BttonStill\obj\Debug\_9._11._18BttonStill.Properties.Resources.resources
+E:\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.GenerateResource.Cache
+D:\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe.config
+D:\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.exe
+D:\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.pdb
+D:\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csprojResolveAssemblyReference.cache
+D:\Grove Müzik\9.11.18BttonStill\obj\Debug\MainWindow.baml
+D:\Grove Müzik\9.11.18BttonStill\obj\Debug\MainWindow.g.cs
+D:\Grove Müzik\9.11.18BttonStill\obj\Debug\App.g.cs
+D:\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.cache
+D:\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.g.resources
+D:\Grove Müzik\9.11.18BttonStill\obj\Debug\_9._11._18BttonStill.Properties.Resources.resources
+D:\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.GenerateResource.Cache
+D:\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe
+D:\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.pdb
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\Resources\Styles.baml
+C:\Users\LAB5OGR16\Desktop\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe.config
+C:\Users\LAB5OGR16\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.exe
+C:\Users\LAB5OGR16\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.pdb
+C:\Users\LAB5OGR16\Desktop\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe
+C:\Users\LAB5OGR16\Desktop\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.pdb
+C:\Users\LAB5OGR16\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csprojResolveAssemblyReference.cache
+C:\Users\LAB5OGR16\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\MainWindow.baml
+C:\Users\LAB5OGR16\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\Resources\Styles.baml
+C:\Users\LAB5OGR16\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\MainWindow.g.cs
+C:\Users\LAB5OGR16\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\App.g.cs
+C:\Users\LAB5OGR16\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.cache
+C:\Users\LAB5OGR16\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.g.resources
+C:\Users\LAB5OGR16\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\_9._11._18BttonStill.Properties.Resources.resources
+C:\Users\LAB5OGR16\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.GenerateResource.Cache
+C:\Users\B2_17\Desktop\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe.config
+C:\Users\B2_17\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.exe
+C:\Users\B2_17\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.pdb
+C:\Users\B2_17\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csprojResolveAssemblyReference.cache
+C:\Users\B2_17\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\MainWindow.baml
+C:\Users\B2_17\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\Resources\Styles.baml
+C:\Users\B2_17\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\MainWindow.g.cs
+C:\Users\B2_17\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\App.g.cs
+C:\Users\B2_17\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.cache
+C:\Users\B2_17\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.g.resources
+C:\Users\B2_17\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\_9._11._18BttonStill.Properties.Resources.resources
+C:\Users\B2_17\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.GenerateResource.Cache
+C:\Users\B2_17\Desktop\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe
+C:\Users\B2_17\Desktop\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.pdb
+C:\Users\B2_17\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe.config
+C:\Users\B2_17\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.exe
+C:\Users\B2_17\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.pdb
+C:\Users\B2_17\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe
+C:\Users\B2_17\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.pdb
+C:\Users\B2_17\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csprojResolveAssemblyReference.cache
+C:\Users\B2_17\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\MainWindow.baml
+C:\Users\B2_17\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\Resources\Styles.baml
+C:\Users\B2_17\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\MainWindow.g.cs
+C:\Users\B2_17\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\App.g.cs
+C:\Users\B2_17\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.cache
+C:\Users\B2_17\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.g.resources
+C:\Users\B2_17\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\_9._11._18BttonStill.Properties.Resources.resources
+C:\Users\B2_17\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.GenerateResource.Cache
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe.config
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.exe
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.pdb
+C:\Users\Kirito\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csprojResolveAssemblyReference.cache
+C:\Users\Kirito\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\Resources\Styles.baml
+C:\Users\Kirito\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\App.g.cs
+C:\Users\Kirito\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.cache
+C:\Users\Kirito\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.exe
+C:\Users\Kirito\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.pdb
+C:\Users\Kirito\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe.config
+C:\Users\Kirito\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe
+C:\Users\Kirito\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.pdb
+C:\Users\Kirito\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\MainWindow.baml
+C:\Users\Kirito\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\MainWindow.g.cs
+C:\Users\Kirito\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.g.resources
+C:\Users\Kirito\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\_9._11._18BttonStill.Properties.Resources.resources
+C:\Users\Kirito\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.GenerateResource.cache
+C:\Users\Kirito\Desktop\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.CoreCompileInputs.cache
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.pdb
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csprojResolveAssemblyReference.cache
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\MainWindow.baml
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\Resources\Styles.baml
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\MainWindow.g.cs
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\App.g.cs
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.cache
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.g.resources
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\_9._11._18BttonStill.Properties.Resources.resources
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.GenerateResource.Cache
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.lref
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe.config
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.pdb
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csprojResolveAssemblyReference.cache
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\Resources\Styles.baml
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\MainWindow.g.cs
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\App.g.cs
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.cache
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.lref
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\MainWindow.baml
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.g.resources
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\_9._11._18BttonStill.Properties.Resources.resources
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.GenerateResource.cache
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.exe
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.pdb
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\musiclist.baml
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)\9.11.18BttonStill\obj\Debug\musiclist.g.cs
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe.config
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.pdb
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csprojResolveAssemblyReference.cache
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\musiclist.baml
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\Resources\Styles.baml
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\MainWindow.g.cs
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\musiclist.g.cs
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\App.g.cs
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.cache
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.lref
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\MainWindow.baml
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.g.resources
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\_9._11._18BttonStill.Properties.Resources.resources
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.GenerateResource.cache
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.CoreCompileInputs.cache
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.exe
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.pdb
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe.config
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.exe
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.pdb
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.pdb
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csprojResolveAssemblyReference.cache
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\musiclist.baml
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\Resources\Styles.baml
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\MainWindow.g.cs
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\musiclist.g.cs
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\App.g.cs
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.cache
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.lref
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\MainWindow.baml
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.g.resources
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\_9._11._18BttonStill.Properties.Resources.resources
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik(Media Elementli)+\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.GenerateResource.Cache
+D:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.lref
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe.config
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.exe
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.pdb
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.pdb
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csprojResolveAssemblyReference.cache
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\Resources\Styles.baml
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\MainWindow.g.cs
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\App.g.cs
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.cache
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.lref
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\MainWindow.baml
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.g.resources
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\_9._11._18BttonStill.Properties.Resources.resources
+E:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.GenerateResource.Cache
+C:\Users\LAB5OGR16\Desktop\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.lref
+F:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe.config
+F:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.exe
+F:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.pdb
+F:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe
+F:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.pdb
+F:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csprojResolveAssemblyReference.cache
+F:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\Resources\Styles.baml
+F:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\MainWindow.g.cs
+F:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\App.g.cs
+F:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.cache
+F:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.lref
+F:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\MainWindow.baml
+F:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.g.resources
+F:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\_9._11._18BttonStill.Properties.Resources.resources
+F:\Login\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.GenerateResource.Cache
+I:\Dosyalar\Egemen\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe.config
+I:\Dosyalar\Egemen\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe
+I:\Dosyalar\Egemen\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.pdb
+I:\Dosyalar\Egemen\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csprojAssemblyReference.cache
+I:\Dosyalar\Egemen\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\Resources\Styles.baml
+I:\Dosyalar\Egemen\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\MainWindow.g.cs
+I:\Dosyalar\Egemen\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\App.g.cs
+I:\Dosyalar\Egemen\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.cache
+I:\Dosyalar\Egemen\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.lref
+I:\Dosyalar\Egemen\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\MainWindow.baml
+I:\Dosyalar\Egemen\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.g.resources
+I:\Dosyalar\Egemen\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\_9._11._18BttonStill.Properties.Resources.resources
+I:\Dosyalar\Egemen\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.GenerateResource.cache
+I:\Dosyalar\Egemen\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.CoreCompileInputs.cache
+I:\Dosyalar\Egemen\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.exe
+I:\Dosyalar\Egemen\Programlama ve Visual\Avni Egemen UZUN ATP-12-B\Grove Müzik\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.pdb
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe.config
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.exe
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\bin\Debug\9.11.18BttonStill.pdb
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.AssemblyReference.cache
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\obj\Debug\Resources\Styles.baml
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\obj\Debug\MainWindow.g.cs
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\obj\Debug\App.g.cs
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.cache
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\obj\Debug\9.11.18BttonStill_MarkupCompile.lref
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\obj\Debug\MainWindow.baml
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.g.resources
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\obj\Debug\_9._11._18BttonStill.Properties.Resources.resources
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.GenerateResource.cache
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.csproj.CoreCompileInputs.cache
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.exe
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\obj\Debug\9.11.18BttonStill.pdb
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\obj\Debug\UserControl1.g.cs
+C:\Users\Kirito\Desktop\Grove Müzik güncel\9.11.18BttonStill\obj\Debug\UserControl1.baml
